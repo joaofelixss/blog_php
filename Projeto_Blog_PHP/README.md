@@ -1,21 +1,16 @@
 # Sobre o projeto
 
-O Portifólio é uma aplicação Front-End web construída por min com conhecimentos adiquiridos ao longo desses últimos meses estudando programação.
+Esse projeto é uma aplicação Full-Stack web construída por min com conhecimentos adiquiridos ao longo desses últimos meses estudando programação.
 
-A aplicação consiste em uma Landing page biasica, onde as pessoas possam navegar o site de forma simples e prática, o site também conta com o formato mobile.
-
-## Layout mobile
-<div>
-  <img>
-</di>      
+A aplicação consiste em um site simples utilizando banco de dados, onde as pessoas possam navegar o site de forma prática, o site também conta com o formato mobile.  
 
 ## Layout web
 <div>
-  <img>
+    <img src="./img/prog-1.jpg">
 </di>    
 
 # Tecnologias utilizadas
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,php,mysql)](https://skillicons.dev)
 
 # Autor
 
